@@ -15,4 +15,8 @@ makechessboard.py:  生成棋盘格代码，自己添加代码保存为图片
 
 get_pic.py: 使用摄像头获得图片、视频或者播放视频
 
-out1221.avi：测试位姿估计最终效果使用的视频
+Drawing1 Model (1).pdf & Drawing1 Model (2).pdf:特征版和尺寸数据
+
+Project2018.pdf： 题目来源及介绍
+
+cvlast.wav: 小视频效果
